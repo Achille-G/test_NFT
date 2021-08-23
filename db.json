@@ -1,4 +1,6 @@
-[
+
+{
+  "tokens": [
   {
     "id": 0,
     "description": "My NFT",
@@ -18,3 +20,5 @@
     "name": "Ellihca NFT #2"
   }
 ]
+
+}

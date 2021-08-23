@@ -18,6 +18,18 @@
     "description": "My NFT",
     "image": "https://gateway.pinata.cloud/ipfs/QmcPGbErc7ht9eLfk7ppNM6jXqqcZqAbM5rSiAH1ksUwoR",
     "name": "Ellihca NFT #2"
+  },
+    {
+    "id": 3,
+    "description": "My NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmP6XeTHAMAMsVhb1SvBC8T4jiPGgrZ24uMkrryv9R8R2Q",
+    "name": "Ellihca NFT #3"
+  },
+    {
+    "id": 4,
+    "description": "My NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNPtysU38cF5fCnhrieU4Rbm86C7MdfQfMsMQURB8AVJh",
+    "name": "Ellihca NFT #4"
   }
 ]
 
